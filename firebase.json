@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site":"cutecook",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
